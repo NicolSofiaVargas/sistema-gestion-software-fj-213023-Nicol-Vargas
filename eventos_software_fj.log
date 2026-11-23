@@ -1,0 +1,12 @@
+2026-11-22 21:04:33 | INFO | Paso 1 listo
+2026-11-22 21:13:16 | INFO | SistemaSoftwareFJ inicializado en memoria (listas internas, sin BD).
+2026-11-22 21:13:16 | INFO | Cliente registrado con éxito: Cliente [C1] | Nombre: Carlos Ruiz | Correo: carlos@mail.com | Teléfono: 3109876543 | Estado: Activo
+2026-11-22 21:13:16 | INFO | Intento de registro de cliente 'C1' finalizado. Total clientes: 1
+2026-11-22 21:13:16 | INFO | Servicio registrado: [Reserva de Sala] S1 - Sala Norte | Capacidad: 12 personas | Tarifa/h: $40.00 | Disponible
+2026-11-22 21:13:16 | INFO | Operación de registro de servicio concluida. Total servicios: 1
+2026-11-22 21:13:16 | INFO | Reserva creada en estado PENDIENTE: Reserva [R1] | Cliente: Carlos Ruiz (C1) | Servicio: S1 | Duración: 2.0h | Cantidad: 6 | Total: $80.00 | Estado: PENDIENTE
+2026-11-22 21:13:16 | INFO | Proceso de creación de reserva 'R1' terminado. Total reservas: 1
+2026-11-22 21:13:16 | INFO | Reserva confirmada: Reserva [R1] | Cliente: Carlos Ruiz (C1) | Servicio: S1 | Duración: 2.0h | Cantidad: 6 | Total: $80.00 | Estado: CONFIRMADA
+2026-11-22 21:13:16 | INFO | Revisión de confirmación para 'R1' completada.
+2026-11-22 21:13:16 | INFO | Reserva procesada con éxito: Reserva [R1] | Cliente: Carlos Ruiz (C1) | Servicio: S1 | Duración: 2.0h | Cantidad: 6 | Total: $80.00 | Estado: PROCESADA
+2026-11-22 21:13:16 | INFO | Revisión de procesamiento para 'R1' completada.
